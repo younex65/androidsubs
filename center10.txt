@@ -1,0 +1,3 @@
+vless://a742b3b9-c94e-486f-84e5-81c48b1e3597@irc.digiup.ml:80/?type=ws&security=none&path=%2Fdownloader%2F54969&host=digiup.ml#Center10-ایرانسل
+vless://a742b3b9-c94e-486f-84e5-81c48b1e3597@mci.digiup.ml:80/?type=ws&security=none&path=%2Fdownloader%2F54969&host=digiup.ml#Center10-همراه اول
+vless://a742b3b9-c94e-486f-84e5-81c48b1e3597@5.cdnserver.ml:80/?type=ws&security=none&path=%2Fdownloader%2F54969&host=centernet.top#Center10-AVN
