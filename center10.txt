@@ -1,3 +1,2 @@
-vless://a742b3b9-c94e-486f-84e5-81c48b1e3597@irc.digiup.ml:80/?type=ws&security=none&path=%2Fdownloader%2F54969&host=digiup.ml#Center10-irancell
-vless://a742b3b9-c94e-486f-84e5-81c48b1e3597@mci.digiup.ml:80/?type=ws&security=none&path=%2Fdownloader%2F54969&host=digiup.ml#Center10-mci
-vless://a742b3b9-c94e-486f-84e5-81c48b1e3597@5.cdnserver.ml:80/?type=ws&security=none&path=%2Fdownloader%2F54969&host=centernet.top#Center10-AVN
+vless://17d13207-c087-4c0b-e4f6-eaad9218d25f@mmci.digiup.ga:2053/?type=ws&security=tls&path=%2F&host=aip.cdntor.cf&sni=aip.cdntor.cf#Cloud2053-mci-oldCF3
+vless://17d13207-c087-4c0b-e4f6-eaad9218d25f@irc.digiup.ga:2053/?type=ws&security=tls&path=%2F&host=aip.cdntor.cf&sni=aip.cdntor.cf#Cloud2053-irc-oldCF3
